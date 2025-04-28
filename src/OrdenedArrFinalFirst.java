@@ -9,6 +9,13 @@ public class OrdenedArrFinalFirst {
 
         for (int i = 0; i < total; i++){
             System.out.print("Ingrese un numero: ");
+            a[i] = s.nextInt();
         }
+
+        for (int i = 9; i >= total-i ; i--){
+            System.out.print(a[i]+" - ");
+            System.out.println(a[a.length-1-i]);
+        }
+
     }
 }

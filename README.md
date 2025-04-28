@@ -14,5 +14,5 @@ sucesivamente
 
 - se crea un arreglo de diez elementos.
 - se lee los 10 numeros desde la entrada con un bucle for.
-
+- se usa otro bucle for para mostrar e imprimir el arreglo en el orden requerido.
 
