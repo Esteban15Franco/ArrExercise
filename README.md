@@ -8,11 +8,22 @@ llenar un arreglo de 10 elementos. Luego debemos mostrarlos en el siguiente orde
 el último, el primero, el penúltimo, el segundo, el antepenúltimo, el tercero, y así
 sucesivamente
 
-**Entrada:**  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+**Entrada:**  {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 
-**Salida:**  [10, 1, 9, 2, 8, 3, 7, 4, 8, 6, 5]
+**Salida:**  {10, 1, 9, 2, 8, 3, 7, 4, 8, 6, 5}
 
 - se crea un arreglo de diez elementos.
 - se lee los 10 numeros desde la entrada con un bucle for.
 - se usa otro bucle for para mostrar e imprimir el arreglo en el orden requerido.
+
+## 2. Ejercicio 2:
+### Descripcion del ejercicio
+Escriba un programa que imprima el número más alto de un arreglo de 7 elementos
+(de rango 11 a 99), por ejemplo {14, 33, 15, 36, 78, 21, 43}, si se repite un valor 
+considerar uno solo.
+
+**Entrada:** {14, 33, 15, 36, 78, 21, 43}
+
+**Salida:** 78
+
 
