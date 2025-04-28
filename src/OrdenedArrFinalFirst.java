@@ -12,7 +12,7 @@ public class OrdenedArrFinalFirst {
             a[i] = s.nextInt();
         }
 
-        for (int i = 9; i >= total-i ; i--){
+        for (int i = 0; i < total/2 ; i++){
             System.out.print(a[i]+" - ");
             System.out.println(a[a.length-1-i]);
         }
