@@ -26,5 +26,9 @@ considerar uno solo.
 
 **Salida:** 78
 
-- Se crea el arreglo de siete elementos.
+- Se crea el arreglo de siete elementos, la entrada de datos y el auxiliar para el 
+maximo.
+- Hacemos una condicion dentro del bucle para verificar el minimo y el maximo requeridos.
+- Creamos otro for para recorrer el arreglo, y usamos un operador ternario para verificar
+el numero mayor.
 
