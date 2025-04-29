@@ -12,9 +12,9 @@ sucesivamente
 
 **Salida:**  {10, 1, 9, 2, 8, 3, 7, 4, 8, 6, 5}
 
-- se crea un arreglo de diez elementos.
-- se lee los 10 numeros desde la entrada con un bucle for.
-- se usa otro bucle for para mostrar e imprimir el arreglo en el orden requerido.
+- Se crea un arreglo de diez elementos.
+- Se lee los 10 numeros desde la entrada con un bucle for.
+- Se usa otro bucle for para mostrar e imprimir el arreglo en el orden requerido.
 
 ## 2. Ejercicio 2:
 ### Descripcion del ejercicio
@@ -26,4 +26,5 @@ considerar uno solo.
 
 **Salida:** 78
 
+- Se crea el arreglo de siete elementos.
 
