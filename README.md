@@ -40,9 +40,11 @@ los números positivos, el promedio de los negativos y contar el número de cero
 **Entrada:** {4, -3, 0, 7, -1, 0, 2}
 
 **Salida:** 
-Promedio positivos: 4.33  
-Promedio negativos: -2.00  
-Promedio ceros: 2.00
+Promedio positivos: 4,33  
+Promedio negativos: -2,00  
+Promedio ceros: 2,00
+
+
 
 
 
