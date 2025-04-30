@@ -32,3 +32,18 @@ maximo.
 - Creamos otro for para recorrer el arreglo, y usamos un operador ternario para verificar
 el numero mayor.
 
+## 2. Ejercicio 3:
+### Descripcion del ejercicio
+Leer 7 números por teclado para llenar un arreglo y a continuación calcular el promedio de
+los números positivos, el promedio de los negativos y contar el número de ceros.
+
+**Entrada:** {4, -3, 0, 7, -1, 0, 2}
+
+**Salida:** 
+Promedio positivos: 4.33  
+Promedio negativos: -2.00  
+Promedio ceros: 2.00
+
+
+
+
