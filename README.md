@@ -62,6 +62,19 @@ Promedio ceros: 2,00
 - Se acumulan sumas y cantidades por tipo de número.
 - Se evita división por cero.
 
+### 4. Mayor ocurrencia en el arreglo
+se debe crear un arreglo con 10 elementos (enteros en el rango de 1 a 9). Escriba un programa
+que imprima el número que tiene más ocurrencias en el arreglo y también imprimir la cantidad
+de veces que aparece en el arreglo.  
+
+**Entrada:** {1, 2, 3, 3, 4, 5, 5, 5, 6, 7}
+
+**Salida:**  
+La mayor ocurrencia es: 3  
+El elemento que más se repite es: 5
+
+
+
 
 
 
