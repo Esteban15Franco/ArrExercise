@@ -73,6 +73,9 @@ de veces que aparece en el arreglo.
 La mayor ocurrencia es: 3  
 El elemento que más se repite es: 5
 
+- Se crea un segundo arreglo que almacenara la cantidad de veces que se repite un numero
+- Se usa un condicional para hallar el numero con mayor concurrencia y su indice
+
 
 
 
