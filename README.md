@@ -76,6 +76,24 @@ El elemento que más se repite es: 5
 - Se crea un segundo arreglo que almacenara la cantidad de veces que se repite un numero
 - Se usa un condicional para hallar el numero con mayor concurrencia y su indice
 
+### 5. Imprimir histograma
+Escribir un programa que recorra un arreglo y genere un histograma en base a los valores de este.  
+El arreglo debe contener 12 elementos que corresponden a números enteros de rango 1 al 6
+
+Un histograma es una representación gráfica (de puntos o barra) de que tanto un elemento aparece en un 
+conjunto de datos, es decir debe mostrar la frecuencia para todos los números del 1 al 6, incluso si no
+están presente en el arreglo.
+
+**Entrada:** {4, 3, 4, 6, 6, 4, 1, 4, 5, 4, 1, 1}
+
+**Salida:**  
+1:***  
+2:  
+3:*  
+4:*****  
+5:*  
+6:**
+
 
 
 
